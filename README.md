@@ -28,7 +28,7 @@ Our Course Registration Management System is designed to streamline the course e
 
 IMAGE  
 
-This query helps identify courses where students may be struggling academically and can indicate issues such as challenging course material, ineffective teaching methods, or need for additional support. It provides two key insights: instructional Effectiveness and curriculum challenges. If multiple courses taught by the same instructor have low averages, it may indicate a need for teaching adjustments or additional support. On the other hand, some courses may have outdated or overly difficult content, requiring curriculum updates or extra resources like tutoring. Identifying struggling courses early allows schools to take proactive steps and work toward improving student success and course quality.
+This query helps identify courses where students may be struggling academically and can indicate issues such as challenging course material, ineffective teaching methods, or need for additional support. It provides two key insights: instructional effectiveness and curriculum challenges. For instance, if multiple courses taught by the same instructor have low averages, it may indicate a need for teaching adjustments or additional support. On the other hand, some courses may have outdated or overly difficult content, requiring curriculum updates or extra resources like tutoring. Identifying struggling courses early allows schools to take proactive steps and work toward improving student success and course quality.
 
 #### Query 2 - TITLE
 *Question*
@@ -37,6 +37,59 @@ IMAGE
 
 description XXXXXXXXXXXXXX
 
+#### Query 2 - TITLE
+*Question*
 
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 3 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 4 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 5 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 6 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 7 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 8 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 9 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
+#### Query 10 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
 
 ## Database information:
