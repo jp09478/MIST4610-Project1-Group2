@@ -75,8 +75,8 @@ Which students have a GPA of 2.00 or lower?
 This query recognizes students at risk of failing or potentially unable to graduate due to having low GPA. By identifying which students are struggling early, colleges can offer targeted support such as personal tutoring or academic counseling to help them stay on track and improve their performance. Which can help lead to higher graduation rates since students are able to receive the necessary resources to overcome academic challenges and succeed in their programs. Additionally by understanding any patterns in struggling students, universities can evaluate and adjust their policies and systems to ensure a more personalized approach to student success.
 
 
-#### Query 7 - TITLE
-*Question*
+#### Query 7 - Identifying Students in the Database
+*What are the details of all students enrolled ordered by their last name?*
 
 IMAGE  
 
