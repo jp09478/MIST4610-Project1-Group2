@@ -53,7 +53,7 @@ IMAGE
 
 description XXXXXXXXXXXXXX
 
-#### Query 3 - TITLE
+#### Query 3 - Identifying Students' Courseloads
 *How many courses is each student enrolled in?*
 
 <img width="708" alt="image" src="https://github.com/user-attachments/assets/366a6fb2-cf27-42a3-86b6-9c266c5cb756" />
