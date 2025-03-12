@@ -24,6 +24,12 @@ IMAGE
 
 This query helps identify courses where students may be struggling academically and can indicate issues such as challenging course material, ineffective teaching methods, or need for additional support. It provides two key insights: instructional Effectiveness and curriculum challenges. If multiple courses taught by the same instructor have low averages, it may indicate a need for teaching adjustments or additional support. On the other hand, some courses may have outdated or overly difficult content, requiring curriculum updates or extra resources like tutoring. Identifying struggling courses early allows schools to take proactive steps and work toward improving student success and course quality.
 
+#### Query 2 - TITLE
+*Question*
+
+IMAGE  
+
+description XXXXXXXXXXXXXX
 
 
 
