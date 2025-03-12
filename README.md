@@ -7,7 +7,7 @@
 1. Clark, Emily
 2. Park, Isabella [@jp09478](https://github.com/jp09478)
 3. Patel, Siddh 
-4. Singh, Saachi @Saachi715
+4. Singh, Saachi [@Saachi715](https://github.com/Saachi715)
 
 ## Problem Description:
 
