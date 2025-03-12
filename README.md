@@ -13,6 +13,8 @@
 Our Course Registration Management System is designed to streamline the course enrollment process and enhance administrative efficiency in universities. This system facilitates key functions such as course scheduling, student enrollment, instructor assignments, and academic progress tracking. By centralizing data, our system minimizes scheduling conflicts, optimizes resource allocation, and ensures students have access to the courses they need. Additionally, it provides administrators with real-time insights into enrollment trends, faculty workload, and resource utilization, enabling data-driven decision-making. Ultimately, the Course Registration Management System supports the university’s mission of fostering academic success while improving operational efficiency and institutional growth.
 
 ## Data Model:
+<img width="584" alt="course_mgmgt_system" src="https://github.com/user-attachments/assets/049db44b-b73d-4d84-b0ee-03578bb6005d" />
+
 
 ## Data Dictionary:
 
