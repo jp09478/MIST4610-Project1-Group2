@@ -61,8 +61,8 @@ description XXXXXXXXXXXXXX
 #### Query 5 - TITLE
 *How many courses is each instructor responsible for?*
 
-<img width="558" alt="image" src="https://github.com/user-attachments/assets/6b0a1d28-74bc-443c-97a9-cfc8ef6d6d3c" />
-<img width="238" alt="image" src="https://github.com/user-attachments/assets/6ce1540c-9627-47af-9536-6df8daf05793" />
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/6b0a1d28-74bc-443c-97a9-cfc8ef6d6d3c" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/6ce1540c-9627-47af-9536-6df8daf05793" />
 
 description XXXXXXXXXXXXXX
 
