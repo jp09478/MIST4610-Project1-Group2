@@ -67,7 +67,7 @@ description XXXXXXXXXXXXXX
 description XXXXXXXXXXXXXX
 
 #### Query 6 - Identifying Students with Low GPAs
-Which students have a GPA of 2.00 or lower?
+*Which students have a GPA of 2.00 or lower?*
 
 <img width="653" alt="Screenshot 2025-03-12 at 6 24 47 PM" src="https://github.com/user-attachments/assets/ecfc7e1c-8b7c-4fee-8721-04add7473bbe" />
 <img width="266" alt="Screenshot 2025-03-12 at 6 25 01 PM" src="https://github.com/user-attachments/assets/2838edeb-dd64-4caf-a429-c2a8e2cdecf5" />
