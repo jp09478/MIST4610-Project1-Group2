@@ -42,13 +42,6 @@ IMAGE
 
 description XXXXXXXXXXXXXX
 
-#### Query 2 - TITLE
-*Question*
-
-IMAGE  
-
-description XXXXXXXXXXXXXX
-
 #### Query 3 - TITLE
 *How many courses is each student enrolled in?*
 
