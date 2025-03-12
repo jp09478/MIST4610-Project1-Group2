@@ -44,8 +44,10 @@ description XXXXXXXXXXXXXX
 
 #### Query 3 - TITLE
 *How many courses is each student enrolled in?*
+
 <img width="708" alt="image" src="https://github.com/user-attachments/assets/366a6fb2-cf27-42a3-86b6-9c266c5cb756" />
 <img width="198" alt="image" src="https://github.com/user-attachments/assets/a250a81f-78a7-4a79-9079-a930f195dd03" />
+
 description XXXXXXXXXXXXXX
 
 #### Query 4 - TITLE
