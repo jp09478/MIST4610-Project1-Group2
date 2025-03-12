@@ -16,5 +16,5 @@
 ## Data Dictionary:
 
 ## Queries:
-### Query 1: 
+#### Query 1: 
 ## Database information:
