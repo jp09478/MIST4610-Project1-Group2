@@ -16,5 +16,10 @@
 ## Data Dictionary:
 
 ## Queries:
-#### Query 1: 
+#### Query 1: Identifying Courses with Low Averages
+Question: Which courses have a class average of 75 or less and who is their course instructor? 
+IMAGE
+This 
+
+
 ## Database information:
