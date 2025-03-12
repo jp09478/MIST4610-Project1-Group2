@@ -5,7 +5,7 @@
 
 ## Team Members:
 1. Clark, Emily
-2. Park, Isabella 
+2. Park, Isabella @jp09478
 3. Patel, Siddh 
 4. Singh, Saachi @Saachi715
 
