@@ -116,3 +116,7 @@ IMAGE
 description XXXXXXXXXXXXXX
 
 ## Database information:
+
+Name of the database: ha_group2_crn61608
+
+All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
