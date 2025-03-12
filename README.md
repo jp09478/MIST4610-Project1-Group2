@@ -29,8 +29,8 @@ Our Course Registration Management System is designed to streamline the course e
 ## Queries:
 #### Query 1 - Identifying Courses with Low Averages
 *Which courses have a class average of 75 or less and who is their course instructor?*
-
-IMAGE  
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/18d07dfe-13f6-4c60-9ad0-b420421e05a1" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/c9c168e6-4a1d-42e6-a360-0e70c6468765" />
 
 This query helps identify courses where students may be struggling academically and can indicate issues such as challenging course material, ineffective teaching methods, or need for additional support. It provides two key insights: instructional effectiveness and curriculum challenges. For instance, if multiple courses taught by the same instructor have low averages, it may indicate a need for teaching adjustments or additional support. On the other hand, some courses may have outdated or overly difficult content, requiring curriculum updates or extra resources like tutoring. Identifying struggling courses early allows schools to take proactive steps and work toward improving student success and course quality.
 
