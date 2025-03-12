@@ -16,11 +16,11 @@ Our Course Registration Management System is designed to streamline the course e
 <img width="584" alt="course_mgmgt_system" src="https://github.com/user-attachments/assets/049db44b-b73d-4d84-b0ee-03578bb6005d" />
 
 ## Data Dictionary:
-<img width="469" alt="image" src="https://github.com/user-attachments/assets/49186adf-4f24-46f7-88fa-86569f228ef2" />
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/76abfd6b-b79d-4e10-aecb-629a921a7851" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/49186adf-4f24-46f7-88fa-86569f228ef2" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/76abfd6b-b79d-4e10-aecb-629a921a7851" />
 <img width="480" alt="image" src="https://github.com/user-attachments/assets/8bd16d84-f0b3-41e3-a106-c8a9aa7276d2" />
 <img width="480" alt="image" src="https://github.com/user-attachments/assets/3e29699a-846d-44c3-ba05-8f6e8afb0f78" />
-<img width="606" alt="image" src="https://github.com/user-attachments/assets/80f28669-153e-4a70-b8ad-e6f277975265" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/80f28669-153e-4a70-b8ad-e6f277975265" />
 
 ## Queries:
 #### Query 1 - Identifying Courses with Low Averages
