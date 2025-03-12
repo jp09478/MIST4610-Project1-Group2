@@ -89,7 +89,8 @@ This query recognizes students at risk of failing or potentially unable to gradu
 #### Query 7 - Identifying Students in the Database
 *What are the details of all students enrolled ordered by their last name?*
 
-IMAGE  
+<img width="477" alt="Screenshot 2025-03-12 at 6 47 19 PM" src="https://github.com/user-attachments/assets/3f75f22d-c8a4-46af-9bca-65befce73769" />
+<img width="554" alt="Screenshot 2025-03-12 at 6 47 56 PM" src="https://github.com/user-attachments/assets/c9dbd80a-b924-4392-828d-1870342b7221" />
 
 description XXXXXXXXXXXXXX
 
