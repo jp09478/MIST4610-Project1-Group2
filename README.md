@@ -10,7 +10,7 @@
 4. Singh, Saachi [@Saachi715](https://github.com/Saachi715)
 
 ## Problem Description:
-Our Course Registration Management System is designed to streamline the course enrollment process and enhance administrative efficiency in universities. This system facilitates key functions such as course scheduling, student enrollment, instructor assignments, and academic progress tracking. By centralizing data, our system minimizes scheduling conflicts, optimizes resource allocation, and ensures students have access to the courses they need. Ultimately, the Course Registration Management System supports the university’s mission of fostering academic success while improving operational efficiency and institutional growth.
+Our Course Registration Management System depicts a database system to streamline the course enrollment process and enhance administrative efficiency in universities. This database facilitates key functions such as course scheduling, student enrollment, instructor assignments, and academic progress tracking. By centralizing data, our system minimizes scheduling conflicts, optimizes resource allocation, and ensures students have access to the courses they need. Ultimately, the Course Registration Management System supports the university’s mission of fostering academic success while improving operational efficiency and institutional growth.
 
 ## Data Model:
 
