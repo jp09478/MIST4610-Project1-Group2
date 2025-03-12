@@ -51,9 +51,10 @@ description XXXXXXXXXXXXXX
 description XXXXXXXXXXXXXX
 
 #### Query 4 - TITLE
-*Question*
+*Which student has the highest grade in each course?*
 
-IMAGE  
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/4459f242-1c21-4f2c-ae8e-0c7fe4764b34" />
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/494be9eb-7d33-41cd-a69b-fc7294c03a7f" />
 
 description XXXXXXXXXXXXXX
 #### Query 5 - TITLE
