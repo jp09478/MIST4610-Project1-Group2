@@ -93,7 +93,7 @@ This query recognizes students at risk of failing or potentially unable to gradu
 <img width="477" alt="Screenshot 2025-03-12 at 6 47 19 PM" src="https://github.com/user-attachments/assets/3f75f22d-c8a4-46af-9bca-65befce73769" />
 <img width="554" alt="Screenshot 2025-03-12 at 6 47 56 PM" src="https://github.com/user-attachments/assets/c9dbd80a-b924-4392-828d-1870342b7221" />
 
-description XXXXXXXXXXXXXX
+This query retrieves information about every enrolled student, including their student id, name, email, major, and enrollment date. Having the information ordered alphabetically by their last name creates an organized student directory which makes referencing, contacting, and managing student records easier. Additionally, it offers valuable insights for academic administration and student services, allowing them to effectively track and support their students.
 
 #### Query 8 - TITLE
 *Question*
