@@ -67,7 +67,7 @@ description XXXXXXXXXXXXXX
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/4459f242-1c21-4f2c-ae8e-0c7fe4764b34" />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/494be9eb-7d33-41cd-a69b-fc7294c03a7f" />
 
-Query #4 identifies students with the highest grades in each course to track academic performance and recognize outstanding achievements by joining four tables—student, enrollment, grade, and course—to link student grades with their respective courses, with a subquery in the WHERE clause retrieving the maximum grade for each course to highlight top performers. This query supports the selection of teaching assistants (TAs) or scholarship candidates, facilitates academic performance monitoring and student recognition, and aids in identifying candidates for mentorship opportunities, providing a list of students with the highest grades per course.
+This query identifies students with the highest grades in each course to track academic performance and recognize outstanding achievements by joining four tables—student, enrollment, grade, and course—to link student grades with their respective courses, with a subquery in the WHERE clause retrieving the maximum grade for each course to highlight top performers. This query supports the selection of teaching assistants (TAs) or scholarship candidates, facilitates academic performance monitoring and student recognition, and aids in identifying candidates for mentorship opportunities, providing a list of students with the highest grades per course.
 
 #### Query 5 - Identifying Faculty Workload Distribution
 *How many courses is each instructor responsible for?*
@@ -75,7 +75,7 @@ Query #4 identifies students with the highest grades in each course to track aca
 <img width="580" alt="image" src="https://github.com/user-attachments/assets/6b0a1d28-74bc-443c-97a9-cfc8ef6d6d3c" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/6ce1540c-9627-47af-9536-6df8daf05793" />
 
-Query #5 ensures balanced workloads and fair faculty assignments by counting the number of courses assigned to each instructor through a join of the course and instructor tables, with results grouped by instructor ID, and a subquery determining the maximum course count to highlight workload distribution. This query helps identify overburdened instructors who may need support, underutilized faculty who can take on more courses, and supports workload balancing to improve teaching quality and reduce burnout while also aiding in identifying faculty for promotion based on assignment data.
+This query ensures balanced workloads and fair faculty assignments by counting the number of courses assigned to each instructor through a join of the course and instructor tables, with results grouped by instructor ID, and a subquery determining the maximum course count to highlight workload distribution. This query helps identify overburdened instructors who may need support, underutilized faculty who can take on more courses, and supports workload balancing to improve teaching quality and reduce burnout while also aiding in identifying faculty for promotion based on assignment data.
 
 #### Query 6 - Identifying Students with Low GPAs
 *Which students have a GPA of 2.00 or lower?*
