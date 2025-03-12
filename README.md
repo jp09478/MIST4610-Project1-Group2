@@ -29,6 +29,7 @@ Our Course Registration Management System is designed to streamline the course e
 ## Queries:
 #### Query 1 - Identifying Courses with Low Averages
 *Which courses have a class average of 75 or less and who is their course instructor?*
+
 <img width="609" alt="image" src="https://github.com/user-attachments/assets/18d07dfe-13f6-4c60-9ad0-b420421e05a1" />
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/c9c168e6-4a1d-42e6-a360-0e70c6468765" />
 
