@@ -121,6 +121,8 @@ description XXXXXXXXXXXXXX
 
 ## Database information:
 
+<img width="741" alt="Screenshot 2025-03-12 at 9 18 07 PM" src="https://github.com/user-attachments/assets/47d2bc3b-d31a-4719-a831-476257fa9770" />
+
 Name of the database: ha_group2_crn61608
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
