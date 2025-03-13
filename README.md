@@ -49,7 +49,8 @@ This query helps identify courses where students may be struggling academically 
 #### Query 2 - TITLE
 *Question*
 
-
+<img width="836" alt="Screenshot 2025-03-12 at 8 52 55 PM" src="https://github.com/user-attachments/assets/305c2c26-0612-42c3-944f-a8d449991fa3" />
+<img width="380" alt="Screenshot 2025-03-12 at 8 53 15 PM" src="https://github.com/user-attachments/assets/bc3dab16-6500-4e94-837f-bc1d11cc1d18" />
 
 description XXXXXXXXXXXXXX
 
