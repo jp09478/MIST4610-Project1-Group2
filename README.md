@@ -46,8 +46,8 @@ Finally, the relationships between these entities ensure a well-structured cours
 
 This query helps identify courses where students may be struggling academically and can indicate issues such as challenging course material, ineffective teaching methods, or need for additional support. It provides two key insights: instructional effectiveness and curriculum challenges. For instance, if multiple courses taught by the same instructor have low averages, it may indicate a need for teaching adjustments or additional support. On the other hand, some courses may have outdated or overly difficult content, requiring curriculum updates or extra resources like tutoring. Identifying struggling courses early allows schools to take proactive steps and work toward improving student success and course quality.
 
-#### Query 2 - TITLE
-*Question*
+#### Query 2 - Identifying Class Rosters
+How many students do instructors teach per class?_
 
 <img width="836" alt="Screenshot 2025-03-12 at 8 52 55 PM" src="https://github.com/user-attachments/assets/305c2c26-0612-42c3-944f-a8d449991fa3" />
 <img width="380" alt="Screenshot 2025-03-12 at 8 53 15 PM" src="https://github.com/user-attachments/assets/bc3dab16-6500-4e94-837f-bc1d11cc1d18" />
