@@ -95,7 +95,7 @@ This query recognizes students at risk of failing or potentially unable to gradu
 
 This query retrieves information about every enrolled student, including their student id, name, email, major, and enrollment date. Having the information ordered alphabetically by their last name creates an organized student directory which makes referencing, contacting, and managing student records easier. Additionally, it offers valuable insights for academic administration and student services, allowing them to effectively track and support their students.
 
-#### Query 8 - Identifying Students that have no received grades
+#### Query 8 - Identifying Students that did not Receive Grades
 *Which students have not received any grades?*
 
 <img width="441" alt="image" src="https://github.com/user-attachments/assets/752ef426-e3dd-412d-9558-e6f9ea020144" />
@@ -104,7 +104,7 @@ This query retrieves information about every enrolled student, including their s
 This query is highly useful for universities as it helps track students who are enrolled in courses but have not received any grades. By identifying these students, universities can proactively intervene to address potential issues such as course withdrawals, academic struggles, or administrative errors in grading. This is particularly valuable for academic advisors and faculty members who need to ensure that students are progressing toward their degrees. Additionally, by running a NOT EXISTS query, administrators can generate reports on students at risk of failing due to missing assessments or unrecorded grades. This insight enables universities to implement timely support measures, such as tutoring, counseling, or grade verification processes, ensuring academic success and retention.
 
 #### Query 9 - Identify Students with Grade Variation
-Which students have the largest range among their grades?
+*Which students have the largest range among their grades?*
 
 <img width="718" alt="Screenshot 2025-03-12 at 9 01 10 PM" src="https://github.com/user-attachments/assets/bc57bcd8-5667-42b7-8eeb-92ea89a0990a" />
 <img width="268" alt="Screenshot 2025-03-12 at 9 05 02 PM" src="https://github.com/user-attachments/assets/f2b52807-021e-4f40-a740-461a539e227d" />
@@ -112,12 +112,12 @@ Which students have the largest range among their grades?
 description XXXXXXXXXXXXXX
 
 #### Query 10 - Identify Popularity of Major
-On average, what is the percent of total students per major?
+*On average, what is the percent of total students per major?*
 
 <img width="758" alt="Screenshot 2025-03-12 at 8 27 17 PM" src="https://github.com/user-attachments/assets/b4bf7828-54f3-4713-96d0-1832c2794a12" />
 <img width="250" alt="Screenshot 2025-03-12 at 8 56 17 PM" src="https://github.com/user-attachments/assets/2c0df1e1-7817-45d6-bbf6-696ee8b332c5" />
 
-T his query employs built in functions and a subquery to identify the number of students and the percent of total students for each major. By identifying the most popular majors, courses and instructors can more proportionally be distributed. For instance, the MIS and Finance majors may need class sections added in future semesters to account for the larger classes because of the popularity of the major. The informatio from this query could also affect hiring decisions so that more instructors are staffed to handle the number of students in the larger majors. 
+This query employs built in functions and a subquery to identify the number of students and the percent of total students for each major. By identifying the most popular majors, courses and instructors can more proportionally be distributed. For instance, the MIS and Finance majors may need class sections added in future semesters to account for the larger classes because of the popularity of the major. While majors with lower enrollment can receive more support and resources to attract students to help to create a more balanced distribution across programs. Adtionally, the information from this query could also affect hiring decisions so that more instructors are staffed to handle the number of students in the larger majors.
 
 ## Database information:
 
