@@ -115,7 +115,7 @@ description XXXXXXXXXXXXXX
 *Question*
 
 <img width="758" alt="Screenshot 2025-03-12 at 8 27 17 PM" src="https://github.com/user-attachments/assets/b4bf7828-54f3-4713-96d0-1832c2794a12" />
-<img width="200" alt="Screenshot 2025-03-12 at 8 56 17 PM" src="https://github.com/user-attachments/assets/2c0df1e1-7817-45d6-bbf6-696ee8b332c5" />
+<img width="250" alt="Screenshot 2025-03-12 at 8 56 17 PM" src="https://github.com/user-attachments/assets/2c0df1e1-7817-45d6-bbf6-696ee8b332c5" />
 
 description XXXXXXXXXXXXXX
 
