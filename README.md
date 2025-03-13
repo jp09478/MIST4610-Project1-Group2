@@ -60,7 +60,7 @@ description XX
 <img width="708" alt="image" src="https://github.com/user-attachments/assets/366a6fb2-cf27-42a3-86b6-9c266c5cb756" />
 <img width="198" alt="image" src="https://github.com/user-attachments/assets/a250a81f-78a7-4a79-9079-a930f195dd03" />
 
-In answering the question of in how many courses is each student enrolled, the answer to typical class count is shown. This query also helps identify students that may be taking on too many classes and could be in need of assistance such as tutoring or stress relief. When it comes to scheduling finals at the end of the semester, this query is additionally useful for identifying potential conflicts for the students with the heaviest course loads. 
+By joining students to courses, this query lays out the students with the heaviest course loads. In answering the question of in how many courses is each student enrolled, the answer to typical class count is shown. This query also helps identify students that may be taking on too many classes and could be in need of assistance such as tutoring or stress relief. When it comes to scheduling finals at the end of the semester, this query is additionally useful for identifying potential conflicts for the students with the heaviest course loads. 
 
 #### Query 4 - Indentifying Top-Performing Students
 *Which student has the highest grade in each course?*
