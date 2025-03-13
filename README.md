@@ -111,13 +111,13 @@ This query is highly useful for universities as it helps track students who are 
 
 description XXXXXXXXXXXXXX
 
-#### Query 10 - TITLE
-*Question*
+#### Query 10 - Identify Popularity of Major
+On average, what is the percent of total students per major?
 
 <img width="758" alt="Screenshot 2025-03-12 at 8 27 17 PM" src="https://github.com/user-attachments/assets/b4bf7828-54f3-4713-96d0-1832c2794a12" />
 <img width="250" alt="Screenshot 2025-03-12 at 8 56 17 PM" src="https://github.com/user-attachments/assets/2c0df1e1-7817-45d6-bbf6-696ee8b332c5" />
 
-description XXXXXXXXXXXXXX
+T his query employs built in functions and a subquery to identify the number of students and the percent of total students for each major. By identifying the most popular majors, courses and instructors can more proportionally be distributed. For instance, the MIS and Finance majors may need class sections added in future semesters to account for the larger classes because of the popularity of the major. The informatio from this query could also affect hiring decisions so that more instructors are staffed to handle the number of students in the larger majors. 
 
 ## Database information:
 
