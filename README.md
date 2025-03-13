@@ -52,7 +52,7 @@ How many students do instructors teach per class?_
 <img width="836" alt="Screenshot 2025-03-12 at 8 52 55 PM" src="https://github.com/user-attachments/assets/305c2c26-0612-42c3-944f-a8d449991fa3" />
 <img width="380" alt="Screenshot 2025-03-12 at 8 53 15 PM" src="https://github.com/user-attachments/assets/bc3dab16-6500-4e94-837f-bc1d11cc1d18" />
 
-This query, in joining instructors to courses to students, aids in finding the instructors with classes to large for one person's responsibility. By finding the number of students in each class, TA's can be properly and evenely assigned. Additionally, classes with large rosters could be split into smaller sections in future semesters so instructors are not over loaded, and instructors dealing with a lot of responsibility over many students could be identified for promotion.
+This query, in joining instructors to courses to enrollment, aids in finding the instructors with classes to large for one person's responsibility. By finding the number of students in each class, TA's can be properly and evenely assigned. Additionally, classes with large rosters could be split into smaller sections in future semesters so instructors are not over loaded, and instructors dealing with a lot of responsibility over many students could be identified for promotion.
 
 #### Query 3 - Identifying Students' Courseloads
 *How many courses is each student enrolled in?*
