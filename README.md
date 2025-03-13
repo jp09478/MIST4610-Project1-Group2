@@ -107,6 +107,7 @@ This query is highly useful for universities as it helps track students who are 
 *Question*
 
 <img width="718" alt="Screenshot 2025-03-12 at 9 01 10 PM" src="https://github.com/user-attachments/assets/bc57bcd8-5667-42b7-8eeb-92ea89a0990a" />
+<img width="268" alt="Screenshot 2025-03-12 at 9 05 02 PM" src="https://github.com/user-attachments/assets/f2b52807-021e-4f40-a740-461a539e227d" />
 
 description XXXXXXXXXXXXXX
 
