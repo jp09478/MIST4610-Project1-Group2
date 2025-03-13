@@ -52,7 +52,7 @@ This query helps identify courses where students may be struggling academically 
 <img width="836" alt="Screenshot 2025-03-12 at 8 52 55 PM" src="https://github.com/user-attachments/assets/305c2c26-0612-42c3-944f-a8d449991fa3" />
 <img width="380" alt="Screenshot 2025-03-12 at 8 53 15 PM" src="https://github.com/user-attachments/assets/bc3dab16-6500-4e94-837f-bc1d11cc1d18" />
 
-description XXXXXXXXXXXXXX
+description XX
 
 #### Query 3 - Identifying Students' Courseloads
 *How many courses is each student enrolled in?*
@@ -60,7 +60,7 @@ description XXXXXXXXXXXXXX
 <img width="708" alt="image" src="https://github.com/user-attachments/assets/366a6fb2-cf27-42a3-86b6-9c266c5cb756" />
 <img width="198" alt="image" src="https://github.com/user-attachments/assets/a250a81f-78a7-4a79-9079-a930f195dd03" />
 
-description XXXXXXXXXXXXXX
+In answering the question of in how many courses is each student enrolled, the answer to typical class count is shown. This query also helps identify students that may be taking on too many classes and could be in need of assistance such as tutoring or stress relief. When it comes to scheduling finals at the end of the semester, this query is additionally useful for identifying potential conflicts for the students with the heaviest course loads. 
 
 #### Query 4 - Indentifying Top-Performing Students
 *Which student has the highest grade in each course?*
