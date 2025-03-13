@@ -103,8 +103,8 @@ This query retrieves information about every enrolled student, including their s
 
 This query is highly useful for universities as it helps track students who are enrolled in courses but have not received any grades. By identifying these students, universities can proactively intervene to address potential issues such as course withdrawals, academic struggles, or administrative errors in grading. This is particularly valuable for academic advisors and faculty members who need to ensure that students are progressing toward their degrees. Additionally, by running a NOT EXISTS query, administrators can generate reports on students at risk of failing due to missing assessments or unrecorded grades. This insight enables universities to implement timely support measures, such as tutoring, counseling, or grade verification processes, ensuring academic success and retention.
 
-#### Query 9 - TITLE
-*Question*
+#### Query 9 - Identify Students with Grade Variation
+Which students have the largest range among their grades?
 
 <img width="718" alt="Screenshot 2025-03-12 at 9 01 10 PM" src="https://github.com/user-attachments/assets/bc57bcd8-5667-42b7-8eeb-92ea89a0990a" />
 <img width="268" alt="Screenshot 2025-03-12 at 9 05 02 PM" src="https://github.com/user-attachments/assets/f2b52807-021e-4f40-a740-461a539e227d" />
