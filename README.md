@@ -109,7 +109,7 @@ This query is highly useful for universities as it helps track students who are 
 <img width="718" alt="Screenshot 2025-03-12 at 9 01 10 PM" src="https://github.com/user-attachments/assets/bc57bcd8-5667-42b7-8eeb-92ea89a0990a" />
 <img width="268" alt="Screenshot 2025-03-12 at 9 05 02 PM" src="https://github.com/user-attachments/assets/f2b52807-021e-4f40-a740-461a539e227d" />
 
-description XXXXXXXXXXXXXX
+This query identifies students who have repeated a course and received different grades. It helps detect whehter students who retake a course are able to improve their grade. In the real world, this information can be valuable for academic advisors and administrators to track students' progress and ensure they are getting the support they need. For example, if a student has retaken a course multiple times with varying grades, it might suggest the need for additional resources, tutoring, or academic counseling. This can also help the institution analyze trends in course performance and understand how many students are retaking courses to improve their academic standing.
 
 #### Query 10 - Identify Popularity of Major
 *On average, what is the percent of total students per major?*
